@@ -19,6 +19,7 @@
     </parent>
     <modules>
         <module>ControllerTest</module>
+        <module>ServiceTest</module>
     </modules>
     <build>
         <plugins>
