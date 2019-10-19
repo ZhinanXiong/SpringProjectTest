@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="DaoTest" />
         <module name="ServiceTest" />
-        <module name="SpringProjectTest" />
         <module name="unit-testing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="DaoTest" target="1.8" />
       <module name="ServiceTest" target="1.8" />
       <module name="SpringProjectTest" target="1.8" />
       <module name="unit-testing" target="1.8" />

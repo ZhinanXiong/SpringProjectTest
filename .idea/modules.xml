@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaoTest/DaoTest.iml" filepath="$PROJECT_DIR$/DaoTest/DaoTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/ServiceTest/ServiceTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringProjectTest.iml" filepath="$PROJECT_DIR$/SpringProjectTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControllerTest/unit-testing.iml" filepath="$PROJECT_DIR$/ControllerTest/unit-testing.iml" />
